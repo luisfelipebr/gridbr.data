@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # gridbr.data: stores IBGE statistical grid data
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/luisfelipebr/gridbr.data/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/luisfelipebr/gridbr.data/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 gridbr.data is a support package of
