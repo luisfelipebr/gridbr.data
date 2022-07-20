@@ -1,0 +1,15 @@
+Package: gridbr.data
+Title: gridbr.data: stores IBGE statistical grid data
+Version: 0.0.1
+Author: Luis Cunha
+Maintainer: Luis Cunha <luisfelipebc@outlook.com>
+Description: Stores IBGE statistical grid data. For full functionality, use the 'gridbr' package.
+License: CC0
+Encoding: UTF-8
+URL: https://github.com/luisfelipebr/gridbr.data
+BugReports: https://github.com/luisfelipebr/gridbr.data/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
+LazyDataCompression:xz
+RoxygenNote: 7.2.1
